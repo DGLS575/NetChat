@@ -1,0 +1,6 @@
+C:\Users\zacks\Desktop\UniProjects\NetChat\Networking\obj\Debug\Networking.csproj.AssemblyReference.cache
+C:\Users\zacks\Desktop\UniProjects\NetChat\Networking\obj\Debug\Networking.csproj.CoreCompileInputs.cache
+C:\Users\zacks\Desktop\UniProjects\NetChat\Networking\bin\Debug\Networking.dll
+C:\Users\zacks\Desktop\UniProjects\NetChat\Networking\bin\Debug\Networking.pdb
+C:\Users\zacks\Desktop\UniProjects\NetChat\Networking\obj\Debug\Networking.dll
+C:\Users\zacks\Desktop\UniProjects\NetChat\Networking\obj\Debug\Networking.pdb

@@ -1,0 +1,17 @@
+C:\Users\zacks\Desktop\UniProjects\NetChat\NetworkingTestProject\bin\Debug\net472\NUnit3.TestAdapter.dll
+C:\Users\zacks\Desktop\UniProjects\NetChat\NetworkingTestProject\bin\Debug\net472\NUnit3.TestAdapter.pdb
+C:\Users\zacks\Desktop\UniProjects\NetChat\NetworkingTestProject\bin\Debug\net472\nunit.engine.dll
+C:\Users\zacks\Desktop\UniProjects\NetChat\NetworkingTestProject\bin\Debug\net472\nunit.engine.api.dll
+C:\Users\zacks\Desktop\UniProjects\NetChat\NetworkingTestProject\bin\Debug\net472\NetworkingTestProject.dll
+C:\Users\zacks\Desktop\UniProjects\NetChat\NetworkingTestProject\bin\Debug\net472\NetworkingTestProject.pdb
+C:\Users\zacks\Desktop\UniProjects\NetChat\NetworkingTestProject\bin\Debug\net472\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\zacks\Desktop\UniProjects\NetChat\NetworkingTestProject\bin\Debug\net472\nunit.framework.dll
+C:\Users\zacks\Desktop\UniProjects\NetChat\NetworkingTestProject\bin\Debug\net472\Networking.dll
+C:\Users\zacks\Desktop\UniProjects\NetChat\NetworkingTestProject\bin\Debug\net472\Networking.pdb
+C:\Users\zacks\Desktop\UniProjects\NetChat\NetworkingTestProject\obj\Debug\net472\NetworkingTestProject.csproj.AssemblyReference.cache
+C:\Users\zacks\Desktop\UniProjects\NetChat\NetworkingTestProject\obj\Debug\net472\NetworkingTestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zacks\Desktop\UniProjects\NetChat\NetworkingTestProject\obj\Debug\net472\NetworkingTestProject.AssemblyInfoInputs.cache
+C:\Users\zacks\Desktop\UniProjects\NetChat\NetworkingTestProject\obj\Debug\net472\NetworkingTestProject.AssemblyInfo.cs
+C:\Users\zacks\Desktop\UniProjects\NetChat\NetworkingTestProject\obj\Debug\net472\NetworkingTestProject.csproj.CoreCompileInputs.cache
+C:\Users\zacks\Desktop\UniProjects\NetChat\NetworkingTestProject\obj\Debug\net472\NetworkingTestProject.dll
+C:\Users\zacks\Desktop\UniProjects\NetChat\NetworkingTestProject\obj\Debug\net472\NetworkingTestProject.pdb

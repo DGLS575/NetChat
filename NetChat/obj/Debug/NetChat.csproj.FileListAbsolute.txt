@@ -1,0 +1,13 @@
+C:\Users\zacks\Desktop\UniProjects\NetChat\NetChat\bin\Debug\NetChat.exe.config
+C:\Users\zacks\Desktop\UniProjects\NetChat\NetChat\bin\Debug\NetChat.exe
+C:\Users\zacks\Desktop\UniProjects\NetChat\NetChat\bin\Debug\NetChat.pdb
+C:\Users\zacks\Desktop\UniProjects\NetChat\NetChat\bin\Debug\Networking.dll
+C:\Users\zacks\Desktop\UniProjects\NetChat\NetChat\bin\Debug\Networking.pdb
+C:\Users\zacks\Desktop\UniProjects\NetChat\NetChat\obj\Debug\NetChat.csproj.AssemblyReference.cache
+C:\Users\zacks\Desktop\UniProjects\NetChat\NetChat\obj\Debug\NetChat.Properties.Resources.resources
+C:\Users\zacks\Desktop\UniProjects\NetChat\NetChat\obj\Debug\NetChat.csproj.GenerateResource.cache
+C:\Users\zacks\Desktop\UniProjects\NetChat\NetChat\obj\Debug\NetChat.csproj.CoreCompileInputs.cache
+C:\Users\zacks\Desktop\UniProjects\NetChat\NetChat\obj\Debug\NetChat.exe
+C:\Users\zacks\Desktop\UniProjects\NetChat\NetChat\obj\Debug\NetChat.pdb
+C:\Users\zacks\Desktop\UniProjects\NetChat\NetChat\obj\Debug\NetChat.Main.resources
+C:\Users\zacks\Desktop\UniProjects\NetChat\NetChat\obj\Debug\NetChat.NewConnection.resources

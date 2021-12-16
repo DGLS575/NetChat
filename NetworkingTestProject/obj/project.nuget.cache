@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xho7FfjKY+h7v7R7WRHda9Cv1Y6mPSBuNgLWDuJte929X05UFwbVG6fHR6DDbCY9BuoguSwx230K1ch207GOqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zacks\\Desktop\\UniProjects\\NetChat\\NetworkingTestProject\\NetworkingTestProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zacks\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\zacks\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\zacks\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\zacks\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}
